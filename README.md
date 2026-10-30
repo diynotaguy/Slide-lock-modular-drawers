@@ -15,6 +15,8 @@ In a single module, there are 6 separate parts to print. One part - the label ho
 - download the .3mf file which has all the parts in the correct orientation for 3D printing with the correct settings for Bambu studio
 - Or download the .step files for each part, where you'll need to orient the parts and configure the settings yourself in a slicer (instructions below)
 
+Use PLA or any other rigid filament of your choice
+
 ## Part orientation
 Orient the parts as shown in the picture below. I have optimised the orientation so the parts are stronger and require fewer supports.
 
