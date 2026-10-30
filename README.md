@@ -35,3 +35,7 @@ Either watch the video at the top, or watch these gifs:
 
 ### Connecting two modules
 ![Double draw gif failed](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20double%20draw%20.gif)
+
+### Separating modules
+
+![Separating modules gif failed](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20taking%20apart%20modules%20.gif)
