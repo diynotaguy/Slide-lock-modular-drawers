@@ -3,6 +3,13 @@
 
 [This video](https://www.youtube.com/shorts/B5VZUPittGw?feature=share) is the easiest way to see what they do and learn how to use them
 
+# Uses
+Since the size of the draw you can make is very versatile, it has many different uses. Here are some things it could store:
+- Current hardware projects - each project is different so needs a different amount of storage
+- Electronics - the drawers are the perfect depth to fit any size up to AA batteries and cases for them, arduinos, perfboards, breadboards, etc
+- Craft supplies
+- Anything where temporary small storage is needed as they are so versatile
+
 # 3D printing instructions
 In a single module, there are 6 separate parts to print. One part - the label holder, isn't necessary to print if you don't want to put a label on the front of the draw. You can either:
 - download the .3mf file which has all the parts in the correct orientation for 3D printing with the correct settings for Bambu studio
@@ -25,7 +32,7 @@ Remove brims & supports, then:
 
 ![Step 1: Put filament into hinges](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20preparing%20hinges.gif)
 
-Assembly done!!
+**Assembly Complete!!**
 
 # How to use
 Either watch the video at the top, or watch these gifs:
@@ -43,3 +50,6 @@ Either watch the video at the top, or watch these gifs:
 ### Changing label
 
 ![Changing label gif failed](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20changing%20label%20.gif)
+
+# Why I made the project
+I made the project because I noticed that no one has made modular drawers where the actual drawers are modular - kind of ironic, right? Once I'd started thinking of the idea, I was also intrigued by the idea because I knew it'd be a bit of a challenge. I'm very happy with the solution that I've come up with, considering that it works very reliably and the draws feel surprisingly solid when connected. If possible, I'd like to slim the design down more, and I'm also planning on making a drawer cabinet/holder/shelves for them. 
