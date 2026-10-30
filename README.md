@@ -21,4 +21,11 @@ Orient the parts as shown in the picture below. I have optimised the orientation
 - Standard wall loop and infill settings can be used as the parts don't need to be very strong
 
 # Assembly instructions
+Remove brims & supports, then:
+
 ![Step 1: Put filament into hinges](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20preparing%20hinges.gif)
+
+Assembly done!!
+
+# How to use
+Either watch the video at the top, or watch these gifs:
