@@ -29,4 +29,9 @@ Assembly done!!
 
 # How to use
 Either watch the video at the top, or watch these gifs:
-![gif failed. Lift up the left side and close the two halves of the right side so the draw is closed. Orient the draw so it's front is facing you, and orient the base so the buckle is facing to the right and its face down. Slide the base in flat under the right hand side of the draw. Make sure it slides under the two tabs left hand side of the draw, and slide it in fully. It should now be locked closed](://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20closing%20draw.gif)
+### Closing draw
+
+![Closing draw gif failed](://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20closing%20draw.gif)
+
+### Connecting two modules
+![Double draw gif failed](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20double%20draw%20.gif)
