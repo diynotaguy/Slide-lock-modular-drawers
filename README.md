@@ -31,7 +31,7 @@ Assembly done!!
 Either watch the video at the top, or watch these gifs:
 ### Closing draw
 
-![Closing draw gif failed](://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20closing%20draw.gif)
+![Closing draw gif failed](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20closing%20draw.gif)
 
 ### Connecting two modules
 ![Double draw gif failed](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20double%20draw%20.gif)
