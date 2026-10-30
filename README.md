@@ -39,3 +39,7 @@ Either watch the video at the top, or watch these gifs:
 ### Separating modules
 
 ![Separating modules gif failed](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20taking%20apart%20modules%20.gif)
+
+### Changing label
+
+![Changing label gif failed](https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Assembly%20gifs/Demonstration%20gif%20changing%20label%20.gif)
