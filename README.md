@@ -1,6 +1,12 @@
 # Slide-lock-modular-drawers
 
-<img width="300" height="400" alt="image" src="https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Pictures/IRL%20-%20Single%20draw%20hello.jpg" />
+<img width="150" height="200" alt="image" src="https://github.com/diynotaguy/Slide-lock-modular-drawers/blob/main/Pictures/IRL%20-%20Single%20draw%20hello.jpg" /><img width="150" height="200" alt="IRL - Double draw transition hello" src="https://github.com/user-attachments/assets/a900da32-5ec7-477b-aaeb-854cf157bf3f" /><img width="150" height="200" alt="IRL - Double draw hello" src="https://github.com/user-attachments/assets/fbe35583-05c9-4506-8d5a-903d55497a2b" />
+
+<img width="250" height="200" alt="CAD pos1 - closed" src="https://github.com/user-attachments/assets/18313d2b-4105-430c-8c15-02a31801bc54" />
+<img width="299" height="200" alt="CAD pos2 - open" src="https://github.com/user-attachments/assets/9eaf8582-4140-4292-b32c-19ac99d60239" />
+<img width="344" height="200" alt="CAD pos3 - 3 connected" src="https://github.com/user-attachments/assets/353241e2-ed31-4660-b568-f7c3a1312996" />
+
+
 
 3D printed modular drawers where the drawers themselves are actually modular. Each module can be a draw by itself, combine with another draw on either side, or combine with a draw on both sides. This means that you can make an infinitely wide draw!
 
